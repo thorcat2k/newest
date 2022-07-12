@@ -1,2 +1,2 @@
-firstt ok make st test fetch
+firstt ok make bgshdasda st test fetch
 ok back
