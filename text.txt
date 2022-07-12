@@ -1,1 +1,1 @@
-firstt ok make st
+firstt ok make st test fetch
